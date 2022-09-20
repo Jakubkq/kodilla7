@@ -1,4 +1,7 @@
-package com.example.kodilla.stream.beutifier;
+package com.example.kodilla.stream;
+
+import com.example.kodilla.stream.beutifier.FunctionalBeauty;
+import com.example.kodilla.stream.beutifier.PoemBeautifier;
 
 public class StreamMain {
     public static void main(String[] args) {                                 // [5]
