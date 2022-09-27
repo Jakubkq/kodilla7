@@ -23,10 +23,12 @@ public final class ForumUser {
     }
 
     public String getUserName() {
+
         return userName;
     }
 
     public char getSex() {
+
         return sex;
     }
 
